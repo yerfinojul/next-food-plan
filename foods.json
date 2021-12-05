@@ -1,0 +1,460 @@
+[
+    {
+      "name": "Leche fluida entera",
+      "carb": 5,
+      "protein": 3,
+      "fat": 3
+    },
+    {
+      "name": "Leche fluida parcial descremada",
+      "carb": 5,
+      "protein": 3,
+      "fat": 1.5
+    },
+    {
+      "name": "Leche fluida totalmente descremada",
+      "carb": 5,
+      "protein": 3,
+      "fat": 0
+    },
+    {
+      "name": "Leche en polvo entera (sin reconstituir)",
+      "carb": 38,
+      "protein": 26,
+      "fat": 26
+    },
+    {
+      "name": "Leche en polvo descremada (sin reconstituir)",
+      "carb": 53,
+      "protein": 35,
+      "fat": 1.25
+    },
+    {
+      "name": "Leche condensada",
+      "carb": 56,
+      "protein": 8,
+      "fat": 8
+    },
+    {
+      "name": "Yogur natural",
+      "carb": 5,
+      "protein": 3,
+      "fat": 3
+    },
+    {
+      "name": "Yogur saborizado",
+      "carb": 11,
+      "protein": 3,
+      "fat": 3
+    },
+    {
+      "name": "Yogur light",
+      "carb": 5,
+      "protein": 3,
+      "fat": 0
+    },
+    {
+      "name": "Quesos promedio enteros",
+      "carb": 0,
+      "protein": 22,
+      "fat": 24
+    },
+    {
+      "name": "Duros enteros (de rallar)",
+      "carb": 0,
+      "protein": 30,
+      "fat": 30
+    },
+    {
+      "name": "Semiduros enteros (tipo Edam)",
+      "carb": 0,
+      "protein": 25,
+      "fat": 25
+    },
+    {
+      "name": "Blandos enteros (frescos)",
+      "carb": 0,
+      "protein": 20,
+      "fat": 20
+    },
+    {
+      "name": "Untables enteros",
+      "carb": 5,
+      "protein": 8,
+      "fat": 17
+    },
+    {
+      "name": "Quesos promedio light",
+      "carb": 2,
+      "protein": 27,
+      "fat": 12
+    },
+    {
+      "name": "Duros light",
+      "carb": 0,
+      "protein": 39,
+      "fat": 20
+    },
+    {
+      "name": "Semiduros light",
+      "carb": 2,
+      "protein": 31,
+      "fat": 11
+    },
+    {
+      "name": "Blandos light",
+      "carb": 1,
+      "protein": 24,
+      "fat": 12
+    },
+    {
+      "name": "Untables light",
+      "carb": 5,
+      "protein": 14,
+      "fat": 6
+    },
+    {
+      "name": "Ricota entera",
+      "carb": 3,
+      "protein": 12,
+      "fat": 11
+    },
+    {
+      "name": "Ricota parcial descremada",
+      "carb": 4,
+      "protein": 13,
+      "fat": 5
+    },
+    {
+      "name": "Huevo Entero",
+      "carb": 0,
+      "protein": 12,
+      "fat": 12
+    },
+    {
+      "name": "Yema",
+      "carb": 0,
+      "protein": 17,
+      "fat": 29
+    },
+    {
+      "name": "Clara",
+      "carb": 0,
+      "protein": 12,
+      "fat": 0
+    },
+    {
+      "name": "Clara en polvo",
+      "carb": 7,
+      "protein": 77,
+      "fat": 0
+    },
+    {
+      "name": "Huevo en polvo",
+      "carb": 3,
+      "protein": 46,
+      "fat": 41
+    },
+    {
+      "name": "Carnes promedio",
+      "carb": 0,
+      "protein": 20,
+      "fat": 5
+    },
+    {
+      "name": "Vacuna",
+      "carb": 0,
+      "protein": 20,
+      "fat": 7
+    },
+    {
+      "name": "Pollo",
+      "carb": 0,
+      "protein": 20,
+      "fat": 5
+    },
+    {
+      "name": "Pescados",
+      "carb": 0,
+      "protein": 20,
+      "fat": 3
+    },
+    {
+      "name": "Cerdo",
+      "carb": 0,
+      "protein": 20,
+      "fat": 30
+    },
+    {
+      "name": "Jamón cocido",
+      "carb": 0,
+      "protein": 20,
+      "fat": 15
+    },
+    {
+      "name": "Jamón crudo",
+      "carb": 0,
+      "protein": 20,
+      "fat": 25
+    },
+    {
+      "name": "Salame",
+      "carb": 0,
+      "protein": 22,
+      "fat": 5
+    },
+    {
+      "name": "Veg A",
+      "carb": 3,
+      "protein": 1,
+      "fat": 0
+    },
+    {
+      "name": "Veg B",
+      "carb": 8,
+      "protein": 1,
+      "fat": 0
+    },
+    {
+      "name": "Veg C",
+      "carb": 20,
+      "protein": 2,
+      "fat": 0
+    },
+    {
+      "name": "Fruta promedio",
+      "carb": 12,
+      "protein": 1,
+      "fat": 0
+    },
+    {
+      "name": "Fruta A",
+      "carb": 8,
+      "protein": 1,
+      "fat": 0
+    },
+    {
+      "name": "Fruta B",
+      "carb": 17,
+      "protein": 1,
+      "fat": 0
+    },
+    {
+      "name": "Palta",
+      "carb": 1,
+      "protein": 2,
+      "fat": 23.5
+    },
+    {
+      "name": "FRUTAS DESECADAS",
+      "carb": 60,
+      "protein": 4,
+      "fat": 0
+    },
+    {
+      "name": "FRUTAS SECAS",
+      "carb": 10,
+      "protein": 18,
+      "fat": 57
+    },
+    {
+      "name": "Cereales y derivados",
+      "carb": 70,
+      "protein": 12,
+      "fat": 0,
+      "hidratation": 2
+    },
+    {
+      "name": "FÉCULAS",
+      "carb": 88,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "LEGUMBRES (no soja)",
+      "carb": 50,
+      "protein": 20,
+      "fat": 0,
+      "hidratation": 1.5
+    },
+    {
+      "name": "SOJA",
+      "carb": 31,
+      "protein": 38,
+      "fat": 18
+    },
+    {
+      "name": "Comun Frances",
+      "carb": 60,
+      "protein": 10,
+      "fat": 0
+    },
+    {
+      "name": "Pan integral",
+      "carb": 50,
+      "protein": 10,
+      "fat": 0
+    },
+    {
+      "name": "Lactal blanco",
+      "carb": 48,
+      "protein": 8,
+      "fat": 3
+    },
+    {
+      "name": "Lactal integral",
+      "carb": 48,
+      "protein": 8,
+      "fat": 2
+    },
+    {
+      "name": "Dulces",
+      "carb": 75,
+      "protein": 10,
+      "fat": 15
+    },
+    {
+      "name": "Tipo agua(promedio general)",
+      "carb": 70,
+      "protein": 10,
+      "fat": 10
+    },
+    {
+      "name": "Galletas de arroz dulces",
+      "carb": 80,
+      "protein": 8,
+      "fat": 2
+    },
+    {
+      "name": "Azucar",
+      "carb": 100,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "Miel",
+      "carb": 80,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "Mermelada",
+      "carb": 75,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "Mermelada light",
+      "carb": 33,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "Dulce de leche",
+      "carb": 50,
+      "protein": 7,
+      "fat": 6
+    },
+    {
+      "name": "Dulce de leche light",
+      "carb": 45,
+      "protein": 6,
+      "fat": 1
+    },
+    {
+      "name": "Caramelos",
+      "carb": 95,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "GELATINA (lista para consumir)",
+      "carb": 0,
+      "protein": 1.5,
+      "fat": 0
+    },
+    {
+      "name": "FLAN (listo para consumir con leche desc.)",
+      "carb": 4.9,
+      "protein": 3.4,
+      "fat": 0.4
+    },
+    {
+      "name": "POSTRES de leche desc. (listo para consumir)",
+      "carb": 9,
+      "protein": 3,
+      "fat": 0
+    },
+    {
+      "name": "Aceite",
+      "carb": 0,
+      "protein": 0,
+      "fat": 100
+    },
+    {
+      "name": "Grasa de vaca o cerdo",
+      "carb": 0,
+      "protein": 0,
+      "fat": 100
+    },
+    {
+      "name": "Manteca",
+      "carb": 0,
+      "protein": 0,
+      "fat": 80
+    },
+    {
+      "name": "Margarina",
+      "carb": 0,
+      "protein": 0,
+      "fat": 80
+    },
+    {
+      "name": "Mayonesa",
+      "carb": 0,
+      "protein": 0,
+      "fat": 80
+    },
+    {
+      "name": "Mayonesa light",
+      "carb": 0,
+      "protein": 0,
+      "fat": 32
+    },
+    {
+      "name": "Crema de leche",
+      "carb": 0,
+      "protein": 0,
+      "fat": 40
+    },
+    {
+      "name": "Crema de leche light",
+      "carb": 0,
+      "protein": 0,
+      "fat": 20
+    },
+    {
+      "name": "SEMILLAS",
+      "carb": 25,
+      "protein": 20,
+      "fat": 45
+    },
+    {
+      "name": "Gaseosas",
+      "carb": 12,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "Gaseosas light",
+      "carb": 0,
+      "protein": 0,
+      "fat": 0
+    },
+    {
+      "name": "Cítricos exprimidos",
+      "carb": 9,
+      "protein": 0,
+      "fat": 0
+    }
+  ]
